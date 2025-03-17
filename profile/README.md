@@ -2,6 +2,9 @@
 
 1. Algorithmic differentiation - [slides](https://www.wolter.tech/wordpress/wp-content/uploads/2025/03/alg_diff_slides.pdf)  - [exercise](https://github.com/Advanced-Machine-Learning-UBonn/day_01_exercise_opt)
 2. Reinforcement learning - [slides](https://www.wolter.tech/wordpress/wp-content/uploads/2025/03/rl_slides.pdf) - [exercise](https://github.com/Advanced-Machine-Learning-UBonn/day_02_exercise_reinforcement_learning)
+3. Deep convolutional neural networks and residual connections
+4. Bayesian Learning
+5. Sequences and Transformers
 
 
 
